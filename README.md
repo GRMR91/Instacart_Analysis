@@ -1,5 +1,5 @@
 # Instacart_analysis
-A python based project performed as part of the Data Analytics course by CareerFoundry
+A python based project exploring the sales patterns of an online grocery store.
 
 ## Objective
 Instacart is an online grocery store with an international market. Instacart is looking to have a more targeted approach to its marketing campaigns and is looking for a data focused approach to engage a wider audience. This analysis works to create a deep understanding customer profiles to inform a more personalised marketing stratgy.
